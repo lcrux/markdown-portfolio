@@ -1,1 +1,15 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Below is a _list_ of my **technical skills**:
+
+## Programming languages
+- C#
+- JavaScript
+- TypeScript
+- Java
+- Delphi/Objec Pascal
+- C
+
+## Collaboration
+- GitHub
+- Git
+- TFS
+- SVN
